@@ -33,11 +33,10 @@
 ## Inventory Service
 
 ### Introduction
-Сервис управления запасами и продуктами.
+A service for creating and storing products, and also for working with a shopping cart.
 
 ### Functional Requirements
-* Учет товаров
-* Бронирование ингредиентов
+* The service must create, update, and get products.
 
 ### Non-Functional Requirements
 * Consistency (согласованность данных)
